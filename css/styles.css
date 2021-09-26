@@ -2128,6 +2128,10 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+
+  .download-btn {
+    margin-top: 1rem;
+  }
 }
 @media (max-width: 767.98px) {
   .table-responsive-md {
