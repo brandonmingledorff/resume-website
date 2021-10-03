@@ -11293,7 +11293,7 @@ body {
     padding-left: 17rem;
   }
 }
-h1, .h1,
+/*h1, .h1,
 h2,
 .h2,
 h3,
@@ -11304,8 +11304,8 @@ h5,
 .h5,
 h6,
 .h6 {
-  /* text-transform: uppercase; */
-}
+  text-transform: uppercase;
+} */
 
 h1, .h1 {
   line-height: 1;
